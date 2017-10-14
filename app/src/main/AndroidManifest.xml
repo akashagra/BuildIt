@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".StakeHolderProjectActivity"
+            android:label="@string/title_activity_stake_holder_project"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
